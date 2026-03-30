@@ -66,6 +66,10 @@
           {
             "name": "SecurBank Theme",
             "value": "securbank-theme"
+          },
+          {
+            "name": "Luma Theme",
+            "value": "luma-theme"
           }
         ]
       },
